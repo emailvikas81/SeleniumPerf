@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="D:/Test Automation/JavaScript/SeleniumProject/lib/browsermob-proxy-2.0-beta-6/browsermob-proxy-2.0-beta-6-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Test Automation/JavaScript/SeleniumProject/lib/browsermob-proxy-2.0-beta-6/browsermob-proxy-2.0-beta-6-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Test Automation/JavaScript/SeleniumProject/lib/browsermob-proxy-2.0-beta-6/lib/annotations-7.0.3.jar"/>
+	<classpathentry kind="lib" path="D:/Test Automation/JavaScript/SeleniumProject/lib/browsermob-proxy-2.0-beta-6/lib/ant-1.8.2.jar"/>
+	<classpathentry kind="lib" path="D:/Test Automation/JavaScript/SeleniumProject/lib/browsermob-proxy-2.0-beta-6/lib/ant-launcher-1.8.2.jar"/>
+	<classpathentry kind="lib" path="D:/Test Automation/JavaScript/SeleniumProject/lib/browsermob-proxy-2.0-beta-6/lib/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Test Automation/JavaScript/SeleniumProject/lib/browsermob-proxy-2.0-beta-6/lib/bcprov-jdk15-135.jar"/>
+	<classpathentry kind="lib" path="D:/Test Automation/JavaScript/SeleniumProject/lib/browsermob-proxy-2.0-beta-6/lib/browsermob-proxy-2.0-beta-6.jar"/>
+	<classpathentry kind="lib" path="D:/Test Automation/JavaScript/SeleniumProject/lib/browsermob-proxy-2.0-beta-6/lib/commons-codec-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Test Automation/JavaScript/SeleniumProject/lib/browsermob-proxy-2.0-beta-6/lib/commons-httpclient-3.1.jar"/>
+	<classpathentry kind="lib" path="D:/Test Automation/JavaScript/SeleniumProject/lib/browsermob-proxy-2.0-beta-6/lib/commons-io-1.3.2.jar"/>
+	<classpathentry kind="lib" path="D:/Test Automation/JavaScript/SeleniumProject/lib/browsermob-proxy-2.0-beta-6/lib/commons-io-1.4.jar"/>
+	<classpathentry kind="lib" path="D:/Test Automation/JavaScript/SeleniumProject/lib/browsermob-proxy-2.0-beta-6/lib/commons-lang-2.5.jar"/>
+	<classpathentry kind="lib" path="D:/Test Automation/JavaScript/SeleniumProject/lib/browsermob-proxy-2.0-beta-6/lib/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="lib" path="D:/Test Automation/JavaScript/SeleniumProject/lib/browsermob-proxy-2.0-beta-6/lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/Test Automation/JavaScript/SeleniumProject/lib/browsermob-proxy-2.0-beta-6/lib/freemarker-2.3.10.jar"/>
+	<classpathentry kind="lib" path="D:/Test Automation/JavaScript/SeleniumProject/lib/browsermob-proxy-2.0-beta-6/lib/guava-r07.jar"/>
+	<classpathentry kind="lib" path="D:/Test Automation/JavaScript/SeleniumProject/lib/browsermob-proxy-2.0-beta-6/lib/guice-3.0.jar"/>
+	<classpathentry kind="lib" path="D:/Test Automation/JavaScript/SeleniumProject/lib/browsermob-proxy-2.0-beta-6/lib/guice-multibindings-3.0.jar"/>
+	<classpathentry kind="lib" path="D:/Test Automation/JavaScript/SeleniumProject/lib/browsermob-proxy-2.0-beta-6/lib/guice-servlet-3.0.jar"/>
+	<classpathentry kind="lib" path="D:/Test Automation/JavaScript/SeleniumProject/lib/browsermob-proxy-2.0-beta-6/lib/httpclient-4.1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Test Automation/JavaScript/SeleniumProject/lib/browsermob-proxy-2.0-beta-6/lib/httpcore-4.1.4.jar"/>
+	<classpathentry kind="lib" path="D:/Test Automation/JavaScript/SeleniumProject/lib/browsermob-proxy-2.0-beta-6/lib/httpmime-4.1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Test Automation/JavaScript/SeleniumProject/lib/browsermob-proxy-2.0-beta-6/lib/icu4j-2.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/Test Automation/JavaScript/SeleniumProject/lib/browsermob-proxy-2.0-beta-6/lib/jackson-core-asl-1.7.1.jar"/>
+	<classpathentry kind="lib" path="D:/Test Automation/JavaScript/SeleniumProject/lib/browsermob-proxy-2.0-beta-6/lib/jackson-mapper-asl-1.7.1.jar"/>
+	<classpathentry kind="lib" path="D:/Test Automation/JavaScript/SeleniumProject/lib/browsermob-proxy-2.0-beta-6/lib/javax.inject-1.jar"/>
+	<classpathentry kind="lib" path="D:/Test Automation/JavaScript/SeleniumProject/lib/browsermob-proxy-2.0-beta-6/lib/jaxen-1.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Test Automation/JavaScript/SeleniumProject/lib/browsermob-proxy-2.0-beta-6/lib/jcip-annotations-1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Test Automation/JavaScript/SeleniumProject/lib/browsermob-proxy-2.0-beta-6/lib/jdom-1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Test Automation/JavaScript/SeleniumProject/lib/browsermob-proxy-2.0-beta-6/lib/jetty-continuation-7.3.0.v20110203.jar"/>
+	<classpathentry kind="lib" path="D:/Test Automation/JavaScript/SeleniumProject/lib/browsermob-proxy-2.0-beta-6/lib/jetty-http-7.3.0.v20110203.jar"/>
+	<classpathentry kind="lib" path="D:/Test Automation/JavaScript/SeleniumProject/lib/browsermob-proxy-2.0-beta-6/lib/jetty-io-7.3.0.v20110203.jar"/>
+	<classpathentry kind="lib" path="D:/Test Automation/JavaScript/SeleniumProject/lib/browsermob-proxy-2.0-beta-6/lib/jetty-security-7.3.0.v20110203.jar"/>
+	<classpathentry kind="lib" path="D:/Test Automation/JavaScript/SeleniumProject/lib/browsermob-proxy-2.0-beta-6/lib/jetty-server-7.3.0.v20110203.jar"/>
+	<classpathentry kind="lib" path="D:/Test Automation/JavaScript/SeleniumProject/lib/browsermob-proxy-2.0-beta-6/lib/jetty-servlet-7.3.0.v20110203.jar"/>
+	<classpathentry kind="lib" path="D:/Test Automation/JavaScript/SeleniumProject/lib/browsermob-proxy-2.0-beta-6/lib/jetty-util-7.3.0.v20110203.jar"/>
+	<classpathentry kind="lib" path="D:/Test Automation/JavaScript/SeleniumProject/lib/browsermob-proxy-2.0-beta-6/lib/jopt-simple-3.2.jar"/>
+	<classpathentry kind="lib" path="D:/Test Automation/JavaScript/SeleniumProject/lib/browsermob-proxy-2.0-beta-6/lib/jsoup-1.4.1.jar"/>
+	<classpathentry kind="lib" path="D:/Test Automation/JavaScript/SeleniumProject/lib/browsermob-proxy-2.0-beta-6/lib/mvel2-2.0.18.jar"/>
+	<classpathentry kind="lib" path="D:/Test Automation/JavaScript/SeleniumProject/lib/browsermob-proxy-2.0-beta-6/lib/saxpath-1.0-FCS.jar"/>
+	<classpathentry kind="lib" path="D:/Test Automation/JavaScript/SeleniumProject/lib/browsermob-proxy-2.0-beta-6/lib/selenium-api-2.20.0.jar"/>
+	<classpathentry kind="lib" path="D:/Test Automation/JavaScript/SeleniumProject/lib/browsermob-proxy-2.0-beta-6/lib/servlet-api-2.5.jar"/>
+	<classpathentry kind="lib" path="D:/Test Automation/JavaScript/SeleniumProject/lib/browsermob-proxy-2.0-beta-6/lib/sitebricks-0.8.3.jar"/>
+	<classpathentry kind="lib" path="D:/Test Automation/JavaScript/SeleniumProject/lib/browsermob-proxy-2.0-beta-6/lib/slf4j-api-1.5.3.jar"/>
+	<classpathentry kind="lib" path="D:/Test Automation/JavaScript/SeleniumProject/lib/browsermob-proxy-2.0-beta-6/lib/slf4j-jdk14-1.5.3.jar"/>
+	<classpathentry kind="lib" path="D:/Test Automation/JavaScript/SeleniumProject/lib/browsermob-proxy-2.0-beta-6/lib/xmlParserAPIs-2.6.2.jar"/>
+	<classpathentry kind="lib" path="D:/Test Automation/JavaScript/SeleniumProject/lib/browsermob-proxy-2.0-beta-6/lib/xom-1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Test Automation/JavaScript/SeleniumProject/lib/browsermob-proxy-2.0-beta-6/lib/xpp3_min-1.1.4c.jar"/>
+	<classpathentry kind="lib" path="D:/Test Automation/JavaScript/SeleniumProject/lib/browsermob-proxy-2.0-beta-6/lib/xstream-1.3.1.jar"/>
+	<classpathentry kind="lib" path="D:/Test Automation/JavaScript/SeleniumProject/lib/selenium-server-standalone-2.21.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
